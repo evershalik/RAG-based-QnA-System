@@ -1,0 +1,9 @@
+langchain
+llama-index
+faiss-cpu
+chromadb
+openai
+streamlit
+PyYAML
+pytest
+click 
